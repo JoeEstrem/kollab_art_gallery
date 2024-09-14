@@ -1,16 +1,18 @@
 <h1>Kollab 🎨</h1>
 <p>Find the <strong>perfect space</strong> for your artwork.</p>
 
-<img src="#">
+<img src="Kollab-Show-1.png">
 
 <h2>Features ✨</h2>
 <ul>
   <li>Browse a marketplace of available gallery spaces for rent.</li>
   <li>Register your own gallerys to rent out.</li>
-  <li>Book a gallery you like to display your artwork</li>
+  <li>Book a gallery you like to display your artwork.</li>
 </ul>
 
-<img src="#">
+<img src="Kollab-Show-2.png">
+<img src="Kollab-Show-3.png">
+
 
 <h2>TECH STACK 👨‍💻</h2>
 
